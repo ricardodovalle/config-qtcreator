@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Written on Wed Aug 28 22:22:56 2013 by Qt Creator 2.8.1-->
+<externaltool id="ST_Link">
+    <description>ST-Link</description>
+    <displayname>ST-Link</displayname>
+    <category></category>
+    <executable output="showinpane" error="showinpane" modifiesdocument="no">
+        <path>/Users/ricardo/Thorx/utils/stlink/st-flash</path>
+        <arguments>write firmware.int.bin 0x08000400</arguments>
+        <workingdirectory>%{CurrentProject:Path}/.build</workingdirectory>
+    </executable>
+</externaltool>

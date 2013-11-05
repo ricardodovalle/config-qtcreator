@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Written on Thu Oct 10 17:25:10 2013 by Qt Creator 2.8.1-->
+<externaltool id="Astyle">
+    <description>Astyle</description>
+    <displayname>Astyle</displayname>
+    <category></category>
+    <executable output="showinpane" error="showinpane" modifiesdocument="yes">
+        <path>/usr/local/bin/astyle</path>
+        <arguments>-s4 -A8 -L -p -U -H -o -c -W</arguments>
+        <workingdirectory>%{CurrentDocument:Path}</workingdirectory>
+    </executable>
+</externaltool>
