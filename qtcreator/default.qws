@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 2.8.1, 2013-11-05T03:33:02. -->
+<!-- Written by QtCreator 2.8.1, 2013-11-29T02:54:15. -->
 <qtcreator>
  <data>
   <variable>Color</variable>
@@ -8,11 +8,11 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAAAAAAAAAAACQAAAAVlbXB0eQ==</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAMAAAB0AC8AVQBzAGUAcgBzAC8AcgBpAGMAYQByAGQAbwAvAFQAaABvAHIAeAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AdABoAHgANgAvADAALwBzAHIAYwAvAGEAcABwAC8AcwBlAHQAdABpAG4AZwBzAC4AYwBwAHAAAAAMAAAAABgAAAABAAAAAAAAAAAAAAAzAAAAAQAAAAAAAABsAC8AVQBzAGUAcgBzAC8AcgBpAGMAYQByAGQAbwAvAFQAaABvAHIAeAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AdABoAHgANgAvADAALwBzAHIAYwAvAGEAcABwAC8AbQBhAGkAbgAuAGMAcABwAAAADAAAAAAcAAAAAQAAACEAAAAAAAAARQAAAAEAAAABAAAAAAAAAGwALwBVAHMAZQByAHMALwByAGkAYwBhAHIAZABvAC8AVABoAG8AcgB4AC8AdwBvAHIAawBzAHAAYQBjAGUALwB0AGgAeAA2AC8AMAAvAHMAcgBjAC8AYQBwAHAALwBsAG8AZwBpAG4ALgB1AGkAAAAMAAAAABgAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAAAAbAAvAFUAcwBlAHIAcwAvAHIAaQBjAGEAcgBkAG8ALwBUAGgAbwByAHgALwB3AG8AcgBrAHMAcABhAGMAZQAvAHQAaAB4ADYALwAwAC8AcwByAGMALwBhAHAAcAAvAG0AYQBpAG4ALgBjAHAAcAAAABAAbQBhAGkAbgAuAGMAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAAB0AC8AVQBzAGUAcgBzAC8AcgBpAGMAYQByAGQAbwAvAFQAaABvAHIAeAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AdABoAHgANgAvADAALwBzAHIAYwAvAGEAcABwAC8AcwBlAHQAdABpAG4AZwBzAC4AYwBwAHAAAAAYAHMAZQB0AHQAaQBuAGcAcwAuAGMAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAADLAAAADWN1cnJlbnRlZGl0b3IAAABsAC8AVQBzAGUAcgBzAC8AcgBpAGMAYQByAGQAbwAvAFQAaABvAHIAeAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AdABoAHgANgAvADAALwBzAHIAYwAvAGEAcABwAC8AbQBhAGkAbgAuAGMAcABwAAAAJgBDAHAAcABFAGQAaQB0AG8AcgAuAEMAKwArAEUAZABpAHQAbwByAAAAHAAAAAEAAAAhAAAAAAAAAEUAAAABAAAAAQAAAAA=</value>
  </data>
  <data>
   <variable>OpenEditors</variable>
-  <value type="int">0</value>
+  <value type="int">2</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -21,16 +21,16 @@
  <data>
   <variable>ProjectList</variable>
   <valuelist type="QVariantList">
-   <value type="QString">/Users/ricardo/Thorx/workspace/balder/thx6/0/thx6.pro</value>
+   <value type="QString">/Users/ricardo/Thorx/workspace/thx6/0/thx6.pro</value>
   </valuelist>
  </data>
  <data>
   <variable>StartupProject</variable>
-  <value type="QString">/Users/ricardo/Thorx/workspace/balder/thx6/0/thx6.pro</value>
+  <value type="QString">/Users/ricardo/Thorx/workspace/thx6/0/thx6.pro</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
-  <value type="QString">Project</value>
+  <value type="QString">Edit</value>
  </data>
  <data>
   <variable>value-Breakpoints</variable>
