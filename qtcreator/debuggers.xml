@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorDebugger>
-<!-- Written by QtCreator 2.8.82, 2013-11-08T04:17:39. -->
+<!-- Written by QtCreator 3.1.0, 2014-04-25T20:32:53. -->
 <qtcreator>
  <data>
   <variable>DebuggerItem.0</variable>
   <valuemap type="QVariantMap">
    <valuelist type="QVariantList" key="Abis"/>
    <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="AutoDetectionSource"></value>
    <value type="QString" key="Binary">/usr/bin/gdb</value>
    <value type="QString" key="DisplayName">System GDB at /usr/bin/gdb</value>
    <value type="int" key="EngineType">1</value>
@@ -20,6 +21,7 @@
     <value type="QString">x86-macos-generic-mach_o-64bit</value>
    </valuelist>
    <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="AutoDetectionSource"></value>
    <value type="QString" key="Binary">/usr/bin/lldb</value>
    <value type="QString" key="DisplayName">System LLDB at /usr/bin/lldb</value>
    <value type="int" key="EngineType">256</value>
@@ -27,8 +29,23 @@
   </valuemap>
  </data>
  <data>
+  <variable>DebuggerItem.2</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">x86-macos-generic-mach_o-32bit</value>
+    <value type="QString">x86-macos-generic-mach_o-64bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="AutoDetectionSource"></value>
+   <value type="QString" key="Binary">/Applications/Xcode.app/Contents/Developer/usr/bin/lldb</value>
+   <value type="QString" key="DisplayName">System LLDB at /Applications/Xcode.app/Contents/Developer/usr/bin/lldb</value>
+   <value type="int" key="EngineType">256</value>
+   <value type="QString" key="Id">{4d6ffe3a-d59a-4a99-9495-95219300cfd2}</value>
+  </valuemap>
+ </data>
+ <data>
   <variable>DebuggerItem.Count</variable>
-  <value type="int">2</value>
+  <value type="int">3</value>
  </data>
  <data>
   <variable>Version</variable>

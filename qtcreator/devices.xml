@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorDevices>
-<!-- Written by QtCreator 2.8.1, 2013-11-27T23:10:28. -->
+<!-- Written by QtCreator 3.1.0, 2014-04-25T20:32:53. -->
 <qtcreator>
  <data>
   <variable>DeviceManager</variable>
@@ -8,10 +8,29 @@
    <valuemap type="QVariantMap" key="DefaultDevices">
     <value type="QString" key="Android.Device.Type">Android Device</value>
     <value type="QString" key="Desktop">Desktop Device</value>
+    <value type="QString" key="Ios.Simulator.Type">iOS Simulator Device </value>
    </valuemap>
    <valuelist type="QVariantList" key="DeviceList">
     <valuemap type="QVariantMap">
      <value type="int" key="Authentication">1</value>
+     <value type="QString" key="DebugServerKey"></value>
+     <value type="QString" key="FreePortsSpec"></value>
+     <value type="QString" key="Host"></value>
+     <value type="QString" key="InternalId">iOS Simulator Device </value>
+     <value type="QString" key="KeyFile"></value>
+     <value type="QString" key="Name">iOS Simulator</value>
+     <value type="int" key="Origin">1</value>
+     <value type="QString" key="OsType">Ios.Simulator.Type</value>
+     <value type="QString" key="Password"></value>
+     <value type="int" key="SshPort">0</value>
+     <value type="int" key="Timeout">0</value>
+     <value type="int" key="Type">1</value>
+     <value type="QString" key="Uname"></value>
+     <value type="int" key="Version">0</value>
+    </valuemap>
+    <valuemap type="QVariantMap">
+     <value type="int" key="Authentication">1</value>
+     <value type="QString" key="DebugServerKey"></value>
      <value type="QString" key="FreePortsSpec"></value>
      <value type="QString" key="Host"></value>
      <value type="QString" key="InternalId">Desktop Device</value>

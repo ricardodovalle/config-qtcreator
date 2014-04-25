@@ -1,60 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 2.8.1, 2013-11-27T23:10:28. -->
+<!-- Written by QtCreator 3.1.0, 2014-04-25T20:32:53. -->
 <qtcreator>
  <data>
   <variable>Profile.0</variable>
   <valuemap type="QVariantMap">
-   <value type="bool" key="PE.Profile.AutoDetected">true</value>
-   <valuemap type="QVariantMap" key="PE.Profile.Data">
-    <value type="QString" key="Android.GdbServer.Information"></value>
-    <valuemap type="QVariantMap" key="Debugger.Information">
-     <value type="QString" key="Binary">/usr/bin/gdb</value>
-     <value type="int" key="EngineType">1</value>
-    </valuemap>
-    <value type="QString" key="PE.Profile.Device">Desktop Device</value>
-    <value type="QByteArray" key="PE.Profile.DeviceType">Desktop</value>
-    <value type="QString" key="PE.Profile.SysRoot"></value>
-    <value type="QString" key="PE.Profile.ToolChain">ProjectExplorer.ToolChain.Clang:{847c6c60-c754-4463-add4-3487b5fbe3c0}</value>
-    <value type="QString" key="QtPM4.mkSpecInformation"></value>
-    <value type="QString" key="QtSupport.QtInformation">SDK.qt.511.clang_64.essentials</value>
-   </valuemap>
-   <value type="QString" key="PE.Profile.Icon">:///DESKTOP///</value>
-   <value type="QString" key="PE.Profile.Id">qt.511.clang_64.essentials_kit</value>
-   <value type="QString" key="PE.Profile.Name">Desktop Qt 5.1.1 clang 64bit</value>
-   <value type="bool" key="PE.Profile.SDK">true</value>
-  </valuemap>
- </data>
- <data>
-  <variable>Profile.1</variable>
-  <valuemap type="QVariantMap">
    <value type="bool" key="PE.Profile.AutoDetected">false</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
    <valuemap type="QVariantMap" key="PE.Profile.Data">
-    <value type="QString" key="Android.GdbServer.Information"></value>
-    <valuemap type="QVariantMap" key="Debugger.Information">
-     <value type="QString" key="Binary">/usr/bin/gdb</value>
-     <value type="int" key="EngineType">1</value>
-    </valuemap>
+    <value type="QString" key="Debugger.Information">{760adbf9-7017-4129-846a-caa370719963}</value>
     <value type="QString" key="PE.Profile.Device">Desktop Device</value>
     <value type="QByteArray" key="PE.Profile.DeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.SysRoot"></value>
     <value type="QString" key="PE.Profile.ToolChain">ProjectExplorer.ToolChain.Clang:{847c6c60-c754-4463-add4-3487b5fbe3c0}</value>
     <value type="QString" key="QtPM4.mkSpecInformation"></value>
-    <value type="int" key="QtSupport.QtInformation">6</value>
+    <value type="int" key="QtSupport.QtInformation">4</value>
    </valuemap>
    <value type="QString" key="PE.Profile.Icon">:///DESKTOP///</value>
-   <value type="QString" key="PE.Profile.Id">{a1b4418b-569d-4efe-9bce-e435f171ec2d}</value>
-   <value type="QString" key="PE.Profile.Name">Desktop Qt 5.2.0 clang 64bit</value>
+   <value type="QString" key="PE.Profile.Id">{3ae6c96e-b8c5-4b8a-8c1c-8644d17a8332}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">Desktop</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo"/>
   </valuemap>
  </data>
  <data>
   <variable>Profile.Count</variable>
-  <value type="int">2</value>
+  <value type="int">1</value>
  </data>
  <data>
   <variable>Profile.Default</variable>
-  <value type="QString">qt.511.clang_64.essentials_kit</value>
+  <value type="QString">{3ae6c96e-b8c5-4b8a-8c1c-8644d17a8332}</value>
  </data>
  <data>
   <variable>Version</variable>

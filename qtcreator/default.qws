@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 2.8.1, 2013-11-29T02:54:15. -->
+<!-- Written by QtCreator 3.1.0, 2014-04-25T20:34:41. -->
 <qtcreator>
  <data>
   <variable>Color</variable>
@@ -8,11 +8,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAMAAAB0AC8AVQBzAGUAcgBzAC8AcgBpAGMAYQByAGQAbwAvAFQAaABvAHIAeAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AdABoAHgANgAvADAALwBzAHIAYwAvAGEAcABwAC8AcwBlAHQAdABpAG4AZwBzAC4AYwBwAHAAAAAMAAAAABgAAAABAAAAAAAAAAAAAAAzAAAAAQAAAAAAAABsAC8AVQBzAGUAcgBzAC8AcgBpAGMAYQByAGQAbwAvAFQAaABvAHIAeAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AdABoAHgANgAvADAALwBzAHIAYwAvAGEAcABwAC8AbQBhAGkAbgAuAGMAcABwAAAADAAAAAAcAAAAAQAAACEAAAAAAAAARQAAAAEAAAABAAAAAAAAAGwALwBVAHMAZQByAHMALwByAGkAYwBhAHIAZABvAC8AVABoAG8AcgB4AC8AdwBvAHIAawBzAHAAYQBjAGUALwB0AGgAeAA2AC8AMAAvAHMAcgBjAC8AYQBwAHAALwBsAG8AZwBpAG4ALgB1AGkAAAAMAAAAABgAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAAAAbAAvAFUAcwBlAHIAcwAvAHIAaQBjAGEAcgBkAG8ALwBUAGgAbwByAHgALwB3AG8AcgBrAHMAcABhAGMAZQAvAHQAaAB4ADYALwAwAC8AcwByAGMALwBhAHAAcAAvAG0AYQBpAG4ALgBjAHAAcAAAABAAbQBhAGkAbgAuAGMAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAAB0AC8AVQBzAGUAcgBzAC8AcgBpAGMAYQByAGQAbwAvAFQAaABvAHIAeAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AdABoAHgANgAvADAALwBzAHIAYwAvAGEAcABwAC8AcwBlAHQAdABpAG4AZwBzAC4AYwBwAHAAAAAYAHMAZQB0AHQAaQBuAGcAcwAuAGMAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAADLAAAADWN1cnJlbnRlZGl0b3IAAABsAC8AVQBzAGUAcgBzAC8AcgBpAGMAYQByAGQAbwAvAFQAaABvAHIAeAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AdABoAHgANgAvADAALwBzAHIAYwAvAGEAcABwAC8AbQBhAGkAbgAuAGMAcABwAAAAJgBDAHAAcABFAGQAaQB0AG8AcgAuAEMAKwArAEUAZABpAHQAbwByAAAAHAAAAAEAAAAhAAAAAAAAAEUAAAABAAAAAQAAAAA=</value>
- </data>
- <data>
-  <variable>OpenEditors</variable>
-  <value type="int">2</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAEAAABsAC8AVQBzAGUAcgBzAC8AcgBpAGMAYQByAGQAbwAvAFQAaABvAHIAeAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AdABoAHgANgAvADIALwBzAHIAYwAvAGEAcABwAC8AbQBhAGkAbgAuAGMAcABwAAAADAAAAAAYAAAAAQAAAAAAAAAAAAAAQwAAAFkAAAAAAAAAAQAAAGwALwBVAHMAZQByAHMALwByAGkAYwBhAHIAZABvAC8AVABoAG8AcgB4AC8AdwBvAHIAawBzAHAAYQBjAGUALwB0AGgAeAA2AC8AMgAvAHMAcgBjAC8AYQBwAHAALwBtAGEAaQBuAC4AYwBwAHAAAAAQAG0AYQBpAG4ALgBjAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAxwAAAA1jdXJyZW50ZWRpdG9yAAAAbAAvAFUAcwBlAHIAcwAvAHIAaQBjAGEAcgBkAG8ALwBUAGgAbwByAHgALwB3AG8AcgBrAHMAcABhAGMAZQAvAHQAaAB4ADYALwAyAC8AcwByAGMALwBhAHAAcAAvAG0AYQBpAG4ALgBjAHAAcAAAACYAQwBwAHAARQBkAGkAdABvAHIALgBDACsAKwBFAGQAaQB0AG8AcgAAABgAAAABAAAAAAAAAAAAAABDAAAAWQAAAAA=</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -21,12 +17,12 @@
  <data>
   <variable>ProjectList</variable>
   <valuelist type="QVariantList">
-   <value type="QString">/Users/ricardo/Thorx/workspace/thx6/0/thx6.pro</value>
+   <value type="QString">/Users/ricardo/Thorx/workspace/thx6/2/thx6.pro</value>
   </valuelist>
  </data>
  <data>
   <variable>StartupProject</variable>
-  <value type="QString">/Users/ricardo/Thorx/workspace/thx6/0/thx6.pro</value>
+  <value type="QString">/Users/ricardo/Thorx/workspace/thx6/2/thx6.pro</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -45,6 +41,10 @@
   <valuemap type="QVariantMap"/>
  </data>
  <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
   <variable>value-ProjectTree.ExpandData</variable>
   <valuelist type="QVariantList"/>
  </data>
@@ -59,6 +59,7 @@
    <value type="QString">Breakpoints</value>
    <value type="QString">DebuggerToolTips</value>
    <value type="QString">DefaultFormats</value>
+   <value type="QString">IndividualFormats</value>
    <value type="QString">ProjectTree.ExpandData</value>
    <value type="QString">Watchers</value>
   </valuelist>
