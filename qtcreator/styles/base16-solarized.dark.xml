@@ -51,10 +51,10 @@
   <style name="VisualWhitespace" foreground="#586e75"/>
 
   <!-- comments -->
-  <style name="Comment" foreground="#839496"/>
-  <style name="DisabledCode" foreground="#839496"/>
-  <style name="Doxygen.Comment" foreground="#93a1a1"/>
-  <style name="Doxygen.Tag" foreground="#839496"/>
+  <style name="Comment" foreground="#657b83"/>
+  <style name="DisabledCode" foreground="#657b83"/>
+  <style name="Doxygen.Comment" foreground="#839496"/>
+  <style name="Doxygen.Tag" foreground="#657b83"/>
 
   <!-- QML -->
   <style name="QmlTypeId" foreground="#6c71c4"/>
